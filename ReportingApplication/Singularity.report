@@ -2,7 +2,7 @@ Bootstrap: docker
 From: ensemblorg/ensembl-vep:release_93
 
 
-%files 
+%files
 vep_docker.ini /opt/vep/
 make_report.sh /opt/vep
 reporting.R /opt/vep

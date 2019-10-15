@@ -1,7 +1,7 @@
 Bootstrap: docker
 From: ensemblorg/ensembl-vep:release_93
 
-%labels
+%labels 
 Maintainer sueruen@informatik.uni-tuebingen.de
 Version V93
 
