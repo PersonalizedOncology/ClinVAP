@@ -11,14 +11,25 @@ if [ -f docker.flag ]; then
         fi
     done
 else
+    # get human genome assembly using command line parameters
+    OPTIND=1
+    while getopts ":a" opt; do
+        case $opt in
+            a) assembly=$OPTARG
+            ;;
+        esac
+    done
+    shift "$((OPTIND-1))"
+
+    # link $HOME to container /mnt
     ln -s $HOME/.vep/homo_sapiens /mnt/homo_sapiens
     cd /mnt
-    perl /opt/vep/src/ensembl-vep/INSTALL.pl -n --CACHE_VERSION 93 --VERSION 93 -a cf -s homo_sapiens -y GRCh37
-    wget http://www.broadinstitute.org/~konradk/loftee/human_ancestor.fa.rz
-    wget http://www.broadinstitute.org/~konradk/loftee/human_ancestor.fa.rz.fai
+
+    # Download cache files and genome reference 
+    perl /opt/vep/src/ensembl-vep/INSTALL.pl -n --CACHE_VERSION 93 --VERSION 93 -a cf -s homo_sapiens -y $assembly
+
+    # Download plug-in dependencies
     wget https://raw.githubusercontent.com/Ensembl/VEP_plugins/release/90/LoFtool_scores.txt
-    wget https://www.broadinstitute.org/%7Ekonradk/loftee/phylocsf.sql.gz && \
-    gunzip phylocsf.sql.gz
 fi
 wait
 touch /mnt/completeness.flag
