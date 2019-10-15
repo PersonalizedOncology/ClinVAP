@@ -1,0 +1,206 @@
+Lymphoid Leukemia
+Gastrointestinal Stromal Tumor
+Acute Myeloid Leukemia
+Chronic Myeloid Leukemia
+Bone Marrow Cancer
+Acute Leukemia
+Melanoma
+Non-small Cell Lung Carcinoma
+Polycythemia Vera
+Colorectal Cancer
+Inflammatory Myofibroblastic Tumor
+Neuroblastoma
+Thyroid Medullary Carcinoma
+Thyroid Cancer
+Papillary Thyroid Carcinoma
+Bladder Carcinoma
+Glioblastoma Multiforme
+Ovarian Cancer
+Stomach Cancer
+Breast Cancer
+Lung Cancer
+Lung Adenocarcinoma
+T-cell Leukemia
+Estrogen-receptor Positive Breast Cancer
+Cholangiocarcinoma
+Malignant Anus Melanoma
+Acute Promyelocytic Leukemia
+Invasive Bladder Transitional Cell Carcinoma
+Myelodysplastic Syndrome
+Astrocytoma
+Head And Neck Squamous Cell Carcinoma
+Mantle Cell Lymphoma
+Gastric Adenosquamous Carcinoma
+Multiple Myeloma
+Acute Lymphocytic Leukemia
+Hepatocellular Fibrolamellar Carcinoma
+Diffuse Large B-cell Lymphoma
+Prostate Cancer
+Ovarian Carcinoma
+Clear Cell Renal Cell Carcinoma
+Ewing Sarcoma
+Follicular Lymphoma
+Chronic Lymphocytic Leukemia
+Colon Carcinoma
+Prostate Carcinoma
+Cancer
+Hematologic Cancer
+Esophagus Adenocarcinoma
+Cervical Adenocarcinoma
+Uveal Melanoma
+Myeloma
+Epithelial Ovarian Cancer
+T-cell Acute Lymphoblastic Leukemia
+Barrett's Adenocarcinoma
+Cervical Squamous Cell Carcinoma
+Supratentorial Glioblastoma Multiforme
+Ovarian Granulosa Cell Tumor
+Precursor B Lymphoblastic Lymphoma/leukemia
+Thymic Carcinoma
+Anaplastic Oligodendroglioma
+Follicular Thyroid Carcinoma
+Renal Cell Carcinoma
+Gastric Adenocarcinoma
+Prostate Adenocarcinoma
+Pancreatic Adenocarcinoma
+Small Cell Carcinoma Of The Ovary Hypercalcemic Type
+Acral Lentiginous Melanoma
+Skin Melanoma
+Esophagus Squamous Cell Carcinoma
+Her2-receptor Positive Breast Cancer
+Ovarian Serous Carcinoma
+Peripheral T-cell Lymphoma
+Oral Squamous Cell Carcinoma
+Peritoneal Mesothelioma
+Colon Cancer
+Parietal Lobe Ependymoma
+Cervical Cancer
+Osteosarcoma
+Lung Squamous Cell Carcinoma
+Endometrial Cancer
+Merkel Cell Carcinoma
+Brain Medulloblastoma
+Basal Cell Carcinoma
+Oropharynx Cancer
+Papillary Renal Cell Carcinoma
+Head And Neck Carcinoma
+Malignant Pleural Mesothelioma
+Bone Ewing's Sarcoma
+Endometrial Carcinoma
+Pancreatic Ductal Adenocarcinoma
+Uterine Corpus Endometrial Carcinoma
+Esophageal Carcinoma
+Pancreatic Carcinoma
+Sarcoma
+Hepatocellular Carcinoma
+Malignant Mesothelioma
+Bile Duct Adenocarcinoma
+T-cell Large Granular Lymphocyte Leukemia
+Brain Glioma
+Waldenstr√∂m's Macroglobulinemia
+Adrenocortical Carcinoma
+Renal Carcinoma
+Lung Small Cell Carcinoma
+Lung Carcinoma
+Meningioma
+Synovial Sarcoma
+Malignant Peripheral Nerve Sheath Tumor
+Skin Squamous Cell Carcinoma
+Uterine Corpus Serous Adenocarcinoma
+Chronic Myeloproliferative Disease
+Angiosarcoma
+Thyroid Carcinoma
+Lung Acinar Adenocarcinoma
+Hairy Cell Leukemia
+Colon Mucinous Adenocarcinoma
+Inflammatory Breast Carcinoma
+Head And Neck Cancer
+Pancreatic Cancer
+Colorectal Adenocarcinoma
+Anaplastic Large Cell Lymphoma
+Myelofibrosis
+Stomach Carcinoma
+Pancreatic Ductal Carcinoma
+Tumor Of Exocrine Pancreas
+Laryngeal Carcinoma
+Endometrial Adenocarcinoma
+Liposarcoma
+Chronic Neutrophilic Leukemia
+Atypical Chronic Myeloid Leukemia
+Chronic Leukemia
+Chronic Myelomonocytic Leukemia
+Gastrointestinal Neuroendocrine Tumor
+Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1
+Urothelial Carcinoma
+Bronchiolo-alveolar Adenocarcinoma
+Mucosal Melanoma
+Papillary Adenocarcinoma
+Sezary's Disease
+Adult B-Lymphoblastic Leukemia
+Langerhans-Cell Histiocytosis
+Pseudomyxoma Peritonei
+Chuvash Polycythemia
+Peutz-Jeghers Syndrome
+Colon Adenocarcinoma
+Hepatocellular Mixed Fibrolamellar Carcinoma
+Acoustic Neuroma
+Triple-receptor Negative Breast Cancer
+Scrotum Paget's Disease
+Thyroid Hurthle Cell Carcinoma
+Female Reproductive Organ Cancer
+Systemic Mastocytosis
+Ovarian Serous Cystadenocarcinoma
+Rhabdoid Cancer
+Rectum Cancer
+Her2-receptor Negative Breast Cancer
+Tuberous Sclerosis
+Myxoid Liposarcoma
+NUT Midline Carcinoma
+Lynch Syndrome
+Bone Epithelioid Hemangioma
+Epithelioid Hemangioendothelioma
+Von Hippel-Lindau Disease
+Pericytoma
+Salivary Gland Carcinoma
+Dermatofibrosarcoma Protuberans
+Endometrial Hyperplasia
+PTEN Hamartoma Tumor Syndrome
+Plexiform Neurofibroma
+Chordoma
+Intrahepatic Cholangiocarcinoma
+Breast Carcinoma
+Malignant Glioma
+Bladder Urothelial Carcinoma
+Esophageal Cancer
+Oligodendroglioma
+Neuroendocrine Tumor
+Leukemia
+Desmoid Fibromatosis
+Ovarian Clear Cell Carcinoma
+Ganglioglioma
+Ovarian Cystadenocarcinoma
+Diffuse Intrinsic Pontine Glioma
+Adrenal Gland Pheochromocytoma
+Malignant Sertoli-Leydig Cell Tumor
+Ureter Small Cell Carcinoma
+Glandular Pattern Ovarian Yolk Sac Tumor
+Solid Tumor
+Anaplastic Thyroid Carcinoma
+Laryngeal Squamous Cell Carcinoma
+Biliary Tract Cancer
+Uterine Cancer
+Ovarian Sex Cord-stromal Tumours
+Vagina Sarcoma
+Epithelioid Inflammatory Myofibroblastic Sarcoma
+Anaplastic Thyroid Cancer
+Pediatric Fibrosarcoma
+Salivary Gland Cancer
+Essential Thrombocythemia
+Paraganglioma
+Congenital Fibrosarcoma
+Breast Secretory Carcinoma
+Adult T-cell Leukemia
+Pediatric B-lymphoblastic Leukemia
+Mesenchymal Chondrosarcoma
+Alveolar Rhabdomyosarcoma
+Pediatric B-cell Acute Lymphoblastic Leukemia

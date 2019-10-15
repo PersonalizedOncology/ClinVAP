@@ -16,5 +16,4 @@ perl src/ensembl-vep/INSTALL.pl --VERSION 93 -a a
 chmod +x copy_data.sh
 
 %runscript
-cd /opt/vep
-./copy_data.sh
+exec /bin/bash /opt/vep/copy_data.sh "$@"
