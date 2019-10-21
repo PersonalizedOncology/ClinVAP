@@ -324,7 +324,7 @@ num_of_tsg <- length(which(count_table$Type == "TSG")) + length(which(count_tabl
 # cancer drug targets with mutation
 lof_variant_dt_table <- biograph_drugs %>%
   # only cancer drug targets
-  filter(is_cancer_drug & interaction_type == "target" & stringr::str_detect(approval_status, 'approved')) %>%
+  filter(is_cancer_drug & interaction_type == "target") %>%
   dplyr::left_join(mvld_high_moderate, by = c("gene_symbol", "hgnc_id")) %>%
   group_by(gene_symbol, approval_status, drug_name) %>%
   summarise(Confidence = n(), References = paste(unique(na.omit(drug_pmid)), collapse = "|")) %>%
