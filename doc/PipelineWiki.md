@@ -76,7 +76,16 @@ Implementation only differs by the third command. Rest of the specifications are
 ```3. export ASSEMBLY=<Your Assembly Here>```                   
 ```4. docker-compose run -e ASSEMBLY --service-ports ClinicalReportR -t //inout -p jwp -a <Your Assembly Here>```        
 
+**Customising Report Template with Docker**
+The report template is configurable according to the user preferences. It is possible to change the table orders, column orders within a table, change column names, remove tables or columns, include a logo etc. If you would like to change the mentioned settings, please follow the steps:
 
+```1. Clone Git repository, if you have not done so far.   ```
+``` https://github.com/PersonalizedOncology/ClinVAP.git```   
+```2. Edit "template.docx" file under "ClinVAP/ReportingApplication/clinicalreporting\_docxtemplater/data" and save the changes.```   
+```3. On terminal, change directory into "ClinVAP/ReportingApplication"```   
+```4. Build docker image to include the new template.```   
+```docker build -t personalizedoncology/clinvap_reporting_app:v1.1 .```   
+```5. After successfully building the image, follow the implementation instructions for Docker.```   
 
 ### Running the pipeline with Singularity
 
