@@ -13,7 +13,7 @@ if [ -f docker.flag ]; then
 else
     # get human genome assembly using command line parameters
     OPTIND=1
-    while getopts ":a" opt; do
+    while getopts "a:" opt; do
         case $opt in
             a) assembly=$OPTARG
             ;;
